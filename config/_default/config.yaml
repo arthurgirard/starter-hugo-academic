@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Charilaos Mylonas, PhD Researcher # Website name
-baseurl: 'http://mylonasc.xyz/' # Website URL
+title: Arthur Girard, PhD Researcher # Website name
+baseurl: 'https://arthurgirard.netlify.app/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
