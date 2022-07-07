@@ -41,16 +41,16 @@ education:
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/harrymylonas
+  link: https://twitter.com/
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=W7giwJEAAAAJ
+  link: https://scholar.google.fr/citations?user=E1OE9gIAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/mylonasc
+  link: https://github.com/arthurgirard
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/charilaos-mylonas-54691948/
+  link: https://www.linkedin.com/in/arthur-girard/
 
 
 # Link to a PDF of your resume/CV.
@@ -58,10 +58,10 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/MylonasCharilaos_Oct21.pdf
+#   link: uploads/RESUME.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "mylonas.charilaos@gmail.com"
+email: "arthur.girard@outlook.com"
 
 design:
   background: 
@@ -73,7 +73,7 @@ design:
 highlight_name: true
 ---
 
-I am currently working as a senior consultant at Deloitte focusing on advanced analytics. In my prior work I developed probabilistic deep learning-based techniques for remaining useful life prediction problems in wind energy.
+I am currently working as a Phd.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/MylonasCharilaos_Oct21.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
